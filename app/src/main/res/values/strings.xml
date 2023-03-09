@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="txtName">Name</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPhone">Phone</string>
+    <string name="txtPwd">Password</string>
+    <string name="Repwd">Retype password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
+</resources>
