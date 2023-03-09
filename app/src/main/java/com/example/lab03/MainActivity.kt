@@ -40,13 +40,13 @@ class MainActivity : AppCompatActivity() {
                 edtRePassword.text.toString()
             )
         }
-        btnCancel.setOnClickListener{
-            edtName.setText("")
-            edtEmail.setText("")
-            edtPhone.setText("")
-            edtPassword.setText("")
-            edtRePassword.setText("")
-        }
+//        btnCancel.setOnClickListener{
+//            edtName.setText("")
+//            edtEmail.setText("")
+//            edtPhone.setText("")
+//            edtPassword.setText("")
+//            edtRePassword.setText("")
+//        }
 
 
     }
